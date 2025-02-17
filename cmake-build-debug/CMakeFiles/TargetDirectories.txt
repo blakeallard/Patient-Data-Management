@@ -1,0 +1,3 @@
+C:/Users/ekalb/CLionProjects/Patient_Data_Management/cmake-build-debug/CMakeFiles/Patient_Data_Management.dir
+C:/Users/ekalb/CLionProjects/Patient_Data_Management/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ekalb/CLionProjects/Patient_Data_Management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
