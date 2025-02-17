@@ -1,0 +1,1 @@
+The Patient Data Management System allows users to add, display, and search patient records. Users can input patient details (ID, name, age, condition), which are stored in a text file. The program displays all patient records and lets users search by patient ID. It provides a simple interface for managing patient data efficiently.
